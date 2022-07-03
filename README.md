@@ -50,21 +50,17 @@ Precision and recall results indicate the prediction and sensitivity percentages
 # AdaBoost Classifier
 ![AdaBoost_Classifier](https://github.com/KathleenYager/Credit_Risk_Analysis/blob/main/Resources/AdaBoost_Classifier.png) 
 
-# Random Over Sampling 
+# Random Over Sampling
+![Random_Sampler_Classifier]("C:\Users\kathl\OneDrive\Desktop\Bootcamp_Classwork\Projects\Module_17_Machine_Learning\Credit_Risk_Analysis	\Resources\Random_Sampler_Classifier.png") 
 
-	![Random_Sampler_Classifier]("C:\Users\kathl\OneDrive\Desktop\Bootcamp_Classwork\Projects\Module_17_Machine_Learning\Credit_Risk_Analysis	\Resources\Random_Sampler_Classifier.png") 
+# Smote 
+![Smote_Classifier]("C:\Users\kathl\OneDrive\Desktop\Bootcamp_Classwork\Projects\Module_17_Machine_Learning\Credit_Risk_Analysis\Resources	\Smote_Classifier.png") 
 
-	# Smote 
+# ClusterCentroid
+![Cluster_Centroid_Classifier](https://github.com/KathleenYager/Credit_Risk_Analysis/blob/main/Resources/Cluster_Centroid_Classifier.png) 
 
-	![Smote_Classifier]("C:\Users\kathl\OneDrive\Desktop\Bootcamp_Classwork\Projects\Module_17_Machine_Learning\Credit_Risk_Analysis\Resources	\Smote_Classifier.png") 
-
-	# ClusterCentroid
-	
-	![Cluster_Centroid_Classifier]("C:\Users\kathl\OneDrive\Desktop\Bootcamp_Classwork\Projects\Module_17_Machine_Learning\Credit_Risk_Analysis	\Resources\Cluster_Centroid_Classifier.png") 
-
-	# Smoteenn
-
-	![Smoteenn_Classifier]("C:\Users\kathl\OneDrive\Desktop\Bootcamp_Classwork\Projects\Module_17_Machine_Learning\Credit_Risk_Analysis\Resources	\Smoteen_Classifier.png") 
+# Smoteenn
+![Smoteenn_Classifier]("C:\Users\kathl\OneDrive\Desktop\Bootcamp_Classwork\Projects\Module_17_Machine_Learning\Credit_Risk_Analysis\Resources	\Smoteen_Classifier.png") 
 
 
 ## Results: 
