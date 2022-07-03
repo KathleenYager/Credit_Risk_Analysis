@@ -31,7 +31,7 @@ Results of each test are displayed below.
 
 A comparison of the accuracy results on the six models is highlighted in the table below. 
 
-# Accuracy Results by Model
+### Accuracy Results by Model
 	Bal Random Forest Cls | AdaBoost Cls | Random Over Samp | Smote | ClusterCentroid | Smoteen
 	______________________|______________|__________________|_______|_________________|________
 	                      |              |                  |       |                 |
@@ -46,17 +46,22 @@ Precision and recall results indicate the prediction and sensitivity percentages
 #### Balanced Random Forest Classifier 
 ![Balanced_Random_Forest_Classifier](https://github.com/KathleenYager/Credit_Risk_Analysis/blob/main/Resources/Balanced_Random_Forest_Classifier.png) 
 
+
 #### AdaBoost Classifier
 ![AdaBoost_Classifier](https://github.com/KathleenYager/Credit_Risk_Analysis/blob/main/Resources/AdaBoost_Classifier.png) 
+
 
 #### Random Over Sampling
 ![Random_Sampler_Classifier](https://github.com/KathleenYager/Credit_Risk_Analysis/blob/main/Resources/Random_Sampler_Classifier.png) 
 
+
 #### Smote 
 ![Smote_Classifier](https://github.com/KathleenYager/Credit_Risk_Analysis/blob/main/Resources/Smote_Classifier.png) 
 
+
 #### ClusterCentroid
 ![Cluster_Centroid_Classifier](https://github.com/KathleenYager/Credit_Risk_Analysis/blob/main/Resources/Cluster_Centroid_Classifier.png) 
+
 
 #### Smoteenn
 ![Smoteenn_Classifier](https://github.com/KathleenYager/Credit_Risk_Analysis/blob/main/Resources/Smoteen_Classifier.png) 
