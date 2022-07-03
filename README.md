@@ -33,7 +33,7 @@ Results of each test are displayed below.
 
 A comparison of the accuracy results on the six models is highlighted in the table below. 
 
-
+# Accuracy Results by Model
 	Bal Random Forest Cls | AdaBoost Cls | Random Over Samp | Smote | ClusterCentroid | Smoteen
 	______________________|______________|__________________|_______|_________________|________
 	                      |              |                  |       |                 |
@@ -44,15 +44,13 @@ A comparison of the accuracy results on the six models is highlighted in the tab
 Precision and recall results indicate the prediction and sensitivity percentages by model. The higher the precision the more likely the predition of loan status is correct. Recall, or sensitivity, scores indicate the ratio of time that the prediction scores are correctly predicted. Below are the results for all six models tested. 
 
 
-	# Balanced Random Forest Classifier 
-
-	![Balanced_Random_Forest_Classifier]("C:\Users\kathl\OneDrive\Desktop\Bootcamp_Classwork\Projects\Module_17_Machine_Learning	\Credit_Risk_Analysis\Resources\Balanced_Random_Forest_Classifier.png") 
+# Balanced Random Forest Classifier 
+![Balanced_Random_Forest_Classifier](https://github.com/KathleenYager/Credit_Risk_Analysis/blob/main/Resources/Balanced_Random_Forest_Classifier.png) 
 
 # AdaBoost Classifier
-
 ![AdaBoost_Classifier](https://github.com/KathleenYager/Credit_Risk_Analysis/blob/main/Resources/AdaBoost_Classifier.png) 
 
-	# Random Over Sampling 
+# Random Over Sampling 
 
 	![Random_Sampler_Classifier]("C:\Users\kathl\OneDrive\Desktop\Bootcamp_Classwork\Projects\Module_17_Machine_Learning\Credit_Risk_Analysis	\Resources\Random_Sampler_Classifier.png") 
 
