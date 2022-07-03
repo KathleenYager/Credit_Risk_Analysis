@@ -60,7 +60,7 @@ Precision and recall results indicate the prediction and sensitivity percentages
 ![Cluster_Centroid_Classifier](https://github.com/KathleenYager/Credit_Risk_Analysis/blob/main/Resources/Cluster_Centroid_Classifier.png) 
 
 # Smoteenn
-![Smoteenn_Classifier]("C:\Users\kathl\OneDrive\Desktop\Bootcamp_Classwork\Projects\Module_17_Machine_Learning\Credit_Risk_Analysis\Resources	\Smoteen_Classifier.png") 
+![Smoteenn_Classifier](https://github.com/KathleenYager/Credit_Risk_Analysis/blob/main/Resources/Smoteen_Classifier.png) 
 
 
 ## Results: 
