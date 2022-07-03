@@ -1,11 +1,9 @@
 # Credit_Risk_Analysis
 
 ## Purpose:
-
 Lending Club, a peer-to-peer service, requested analysis be completed on credit card risk. Using a dataset provided by the company, several techniques are used to train and evaluate each model to determine the best to use in determing. This report will provide an overview of each and recommendations on model used and which will provide the highest accuracy results to determine high-risk loans. 
 
 ## Results: 
-
 Six machine learning models were used to calculate precision and recall scores for the data provided by Lending Club. The balance of the loan status for the dataset indicates there are 64,784 low risk and 322 high risk loans. This information is derived by comparing loan status to all other features asked on a credit application. 
 
 Using this information, the data was separated into test and train groups, including using a random state to ensure other tests could be  replicated. Tests were then run on ensemble groups, over sampled, under sampled and combined groups to determine the model that produces the highest accuracy. 
@@ -41,6 +39,7 @@ A comparison of the accuracy results on the six models is highlighted in the tab
 	______________________|______________|__________________|_______|_________________|________
 
 
+# Precision and Recall Results
 Precision and recall results indicate the prediction and sensitivity percentages by model. The higher the precision the more likely the predition of loan status is correct. Recall, or sensitivity, scores indicate the ratio of time that the prediction scores are correctly predicted. Below are the results for all six models tested. 
 
 
@@ -64,7 +63,6 @@ Precision and recall results indicate the prediction and sensitivity percentages
 
 
 ## Results: 
-
 Based on accuracy, precision and recall it is recommended that Lender Club use the AdaBoost model to determine high and low risk loan statuses for their credit applicants. This model has a .99% accuracy rate with a precision percentage of .88% and recall of .38% for high risk loans. This indicates that the model is accurate almost all of the time. With a high precision rate of almost 90% percent that is accurate about 40% of the time, Lender Club analysts can rely on the results of loan status testing as a means of determining prospective customers that are high and low risk for lending. 
 
 	
