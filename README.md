@@ -54,7 +54,7 @@ Precision and recall results indicate the prediction and sensitivity percentages
 ![Random_Sampler_Classifier](https://github.com/KathleenYager/Credit_Risk_Analysis/blob/main/Resources/Random_Sampler_Classifier.png) 
 
 # Smote 
-![Smote_Classifier]("C:\Users\kathl\OneDrive\Desktop\Bootcamp_Classwork\Projects\Module_17_Machine_Learning\Credit_Risk_Analysis\Resources	\Smote_Classifier.png") 
+![Smote_Classifier](https://github.com/KathleenYager/Credit_Risk_Analysis/blob/main/Resources/Smote_Classifier.png) 
 
 # ClusterCentroid
 ![Cluster_Centroid_Classifier](https://github.com/KathleenYager/Credit_Risk_Analysis/blob/main/Resources/Cluster_Centroid_Classifier.png) 
