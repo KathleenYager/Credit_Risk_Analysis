@@ -39,26 +39,26 @@ A comparison of the accuracy results on the six models is highlighted in the tab
 	______________________|______________|__________________|_______|_________________|________
 
 
-# Precision and Recall Results
+### Precision and Recall Results
 Precision and recall results indicate the prediction and sensitivity percentages by model. The higher the precision the more likely the predition of loan status is correct. Recall, or sensitivity, scores indicate the ratio of time that the prediction scores are correctly predicted. Below are the results for all six models tested. 
 
 
-# Balanced Random Forest Classifier 
+#### Balanced Random Forest Classifier 
 ![Balanced_Random_Forest_Classifier](https://github.com/KathleenYager/Credit_Risk_Analysis/blob/main/Resources/Balanced_Random_Forest_Classifier.png) 
 
-# AdaBoost Classifier
+#### AdaBoost Classifier
 ![AdaBoost_Classifier](https://github.com/KathleenYager/Credit_Risk_Analysis/blob/main/Resources/AdaBoost_Classifier.png) 
 
-# Random Over Sampling
+#### Random Over Sampling
 ![Random_Sampler_Classifier](https://github.com/KathleenYager/Credit_Risk_Analysis/blob/main/Resources/Random_Sampler_Classifier.png) 
 
-# Smote 
+#### Smote 
 ![Smote_Classifier](https://github.com/KathleenYager/Credit_Risk_Analysis/blob/main/Resources/Smote_Classifier.png) 
 
-# ClusterCentroid
+#### ClusterCentroid
 ![Cluster_Centroid_Classifier](https://github.com/KathleenYager/Credit_Risk_Analysis/blob/main/Resources/Cluster_Centroid_Classifier.png) 
 
-# Smoteenn
+#### Smoteenn
 ![Smoteenn_Classifier](https://github.com/KathleenYager/Credit_Risk_Analysis/blob/main/Resources/Smoteen_Classifier.png) 
 
 
