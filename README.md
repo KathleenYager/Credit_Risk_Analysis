@@ -67,7 +67,7 @@ Precision and recall results indicate the prediction and sensitivity percentages
 ![Smoteenn_Classifier](https://github.com/KathleenYager/Credit_Risk_Analysis/blob/main/Resources/Smoteen_Classifier.png) 
 
 
-## Results: 
+## Recommendations: 
 Based on accuracy, precision and recall it is recommended that Lender Club use the AdaBoost model to determine high and low risk loan statuses for their credit applicants. This model has a .99% accuracy rate with a precision percentage of .88% and recall of .38% for high risk loans. This indicates that the model is accurate almost all of the time. With a high precision rate of almost 90% percent that is accurate about 40% of the time, Lender Club analysts can rely on the results of loan status testing as a means of determining prospective customers that are high and low risk for lending. 
 
 	
