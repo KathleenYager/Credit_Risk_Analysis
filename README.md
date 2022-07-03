@@ -37,7 +37,7 @@ A comparison of the accuracy results on the six models is highlighted in the tab
 	Bal Random Forest Cls | AdaBoost Cls | Random Over Samp | Smote | ClusterCentroid | Smoteen
 	______________________|______________|__________________|_______|_________________|________
 	                      |              |                  |       |                 |
-		.78  		    	|	 .99     	|  		.65		    |  .66  |       .66       |  .54
+		.78           |	 .99         |     .65	        |  .66  |       .66       |  .54
 	______________________|______________|__________________|_______|_________________|________
 
 
