@@ -48,9 +48,9 @@ Precision and recall results indicate the prediction and sensitivity percentages
 
 	![Balanced_Random_Forest_Classifier]("C:\Users\kathl\OneDrive\Desktop\Bootcamp_Classwork\Projects\Module_17_Machine_Learning	\Credit_Risk_Analysis\Resources\Balanced_Random_Forest_Classifier.png") 
 
-	# AdaBoost Classifier
+# AdaBoost Classifier
 
-	![AdaBoost_Classifier]("C:\Users\kathl\OneDrive\Desktop\Bootcamp_Classwork\Projects\Module_17_Machine_Learning\Credit_Risk_Analysis\Resources	\AdaBoost_Classifier.png") 
+![AdaBoost_Classifier](https://github.com/KathleenYager/Credit_Risk_Analysis/blob/main/Resources/AdaBoost_Classifier.png) 
 
 	# Random Over Sampling 
 
