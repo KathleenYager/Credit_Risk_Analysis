@@ -51,7 +51,7 @@ Precision and recall results indicate the prediction and sensitivity percentages
 ![AdaBoost_Classifier](https://github.com/KathleenYager/Credit_Risk_Analysis/blob/main/Resources/AdaBoost_Classifier.png) 
 
 # Random Over Sampling
-![Random_Sampler_Classifier]("C:\Users\kathl\OneDrive\Desktop\Bootcamp_Classwork\Projects\Module_17_Machine_Learning\Credit_Risk_Analysis	\Resources\Random_Sampler_Classifier.png") 
+![Random_Sampler_Classifier](https://github.com/KathleenYager/Credit_Risk_Analysis/blob/main/Resources/Random_Sampler_Classifier.png) 
 
 # Smote 
 ![Smote_Classifier]("C:\Users\kathl\OneDrive\Desktop\Bootcamp_Classwork\Projects\Module_17_Machine_Learning\Credit_Risk_Analysis\Resources	\Smote_Classifier.png") 
